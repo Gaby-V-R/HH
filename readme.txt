@@ -4,7 +4,7 @@ This program computes the double homology of the moment angle complex associated
 It takes as an input the maximal simplices that define a simplicial complex K and outputs the double homology
 of ZK with coefficients in Z/2. 
 
-The output separates HH by homological degree and for every bidegree it outputs the rank and shows a basis of it.
+The output separates HH by homological degree and outputs the rank for every non-trivial bidegree.
 Note: Due to the nature of the program, it can be easily modified to also print a basis for the double homology.
 
 By "Homological degree" I mean the degree of the reduced homology in the hochster decomposition
